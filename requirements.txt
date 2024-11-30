@@ -1,0 +1,8 @@
+#flask==3.0.3
+flask==3.1.0
+transformers[sentencepiece]
+bitsandbytes
+torch
+accelerate
+gunicorn
+python-dotenv
