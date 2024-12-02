@@ -151,7 +151,7 @@ deployment:
 1. Pick a provider, and "Accept Bid ->"
 1. Wait a bit
 1. On the "Leases" tab, open the URI(s) link
-1. Enjoy using Akash Image Generator, powered by Akash Network!
+1. Enjoy using LLM Optimize, powered by Akash Network!
 
 
 ## Running Locally (without Docker)
