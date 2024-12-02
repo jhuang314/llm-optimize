@@ -1,0 +1,3 @@
+[submodule "akash-chat-ui"]
+	path = akash-chat-ui
+	url = https://github.com/jhuang314/akash-chat-ui.git
