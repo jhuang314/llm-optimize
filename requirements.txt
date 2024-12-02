@@ -1,7 +1,7 @@
 flask==3.1.0
 transformers[sentencepiece]
-bitsandbytes
 torch
 accelerate
 gunicorn
 python-dotenv
+bitsandbytes==0.39.0 # newest version crashes
