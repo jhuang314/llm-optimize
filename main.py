@@ -25,15 +25,9 @@ DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Constants and default configurations
 _MODEL_DICT = {
     "Llama-3.2-1B": "unsloth/Llama-3.2-1B-Instruct",
-    #"Llama-3.2-1B-4bit": "unsloth/Llama-3.2-1B-bnb-4bit",
-    # "Llama-3.2-90B": "unsloth/Llama-3.2-90B-Vision-Instruct",
-    # "Gemma-2-27b-4bit": "unsloth/gemma-2-27b-bnb-4bit",
 }
 _MODELS = {
     "Llama-3.2-1B": None,
-    #"Llama-3.2-1B-4bit": None,
-    # "": None,
-    # "Gemma-2-27b-4bit": None,
 }
 
 _MAX_TOKENS = 4096
